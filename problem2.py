@@ -1,0 +1,7 @@
+num1 = float(input("Enter a first number")) 
+num2 = float(input("Enter a Second number")) 
+print ("your sum is :",num1+num2)
+print ("your Difference is :",num1-num2)
+print ("your Product is :",num1*num2)
+print ("your division is",num1/num2)
+print ("your reminder is :",num1%num2)
