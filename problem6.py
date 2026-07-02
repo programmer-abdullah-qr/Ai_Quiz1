@@ -1,0 +1,5 @@
+Text = input("Enter a short sentence (15 to 20) charater :" )
+print ("Your length is :",len(Text))
+print ("Your first Charater is :",Text[0])
+print ("Your Last Charater is :",Text[:len])
+print ("Your first five charater is :",Text[0 :5])
